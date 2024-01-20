@@ -1,5 +1,5 @@
-function Home(){
-    return <h1>Confia, vai dar certo!</h1>
+function Home() {
+  return <h1>Confia, vai dar certo!</h1>;
 }
 
-export default Home
+export default Home;
